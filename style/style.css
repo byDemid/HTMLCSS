@@ -1,3 +1,4 @@
+
 * { 
     font-family: sans-serif;
     margin: 0;
@@ -251,6 +252,8 @@
     text-transform: uppercase;
 }
 
+
+
 .connection {
     display: flex;
     justify-content: space-between;
@@ -273,6 +276,7 @@
     opacity: 0.4;
 }
 
+
 .header__top_block_contact {
     background-image: url(../img/fon_contact.png);
     background-size: 100%;
@@ -286,6 +290,8 @@
     letter-spacing: 0.04em;
     color: #FFFFFF;
     padding-top: 51px;
+
+
 }
 
 .text__top_contsct{
@@ -296,6 +302,8 @@
     text-align: center;
     letter-spacing: 0.04em;
     color: rgba(255, 255, 255, 0.6);
+
+
 }
 
 .content_contact {
